@@ -17,6 +17,23 @@ The project uses a CSV file named `CLV.csv` containing the following columns:
 - **INCOME**: Customer's annual income
 - **SPEND**: Customer's annual spending on the website
 
+## 📸 Project Visualizations
+
+### Income Distribution
+![Income Distribution](K-MeansClustering_for-CustomerSegmentation/Images/Income.png)
+
+### Spending Distribution
+![Spending Distribution](K-MeansClustering_for-CustomerSegmentation/Images/Spend.png)
+
+### Income vs Spending Analysis
+![Income vs Spending](K-MeansClustering_for-CustomerSegmentation/Images/IncomeSpend.png)
+
+### Elbow Method for Optimal Clusters
+![Clusters Analysis](K-MeansClustering_for-CustomerSegmentation/Images/Clusters.png)
+
+### Final K-Means Clustering Results
+![K-Means Clustering](K-MeansClustering_for-CustomerSegmentation/Images/ClustersKmeans.png)
+
 ## 🛠️ Technologies and Libraries
 
 ### Main Libraries
