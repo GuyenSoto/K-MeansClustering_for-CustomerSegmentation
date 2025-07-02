@@ -19,11 +19,8 @@ The project uses a CSV file named `CLV.csv` containing the following columns:
 
 ## 📸 Project Visualizations
 
-### Income Distribution
+### Income and Spend Distribution separated
 ![Income Distribution](Images/Income.png)
-
-### Spending Distribution
-![Spending Distribution](Images/Spend.png)
 
 ### Income vs Spending Analysis
 ![Income vs Spending](Images/IncomeSpend.png)
